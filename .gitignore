@@ -1,5 +1,6 @@
 *.ttf
 
-/.vscode/*
+# VS Code settings
+.vscode/
 
 *.exe
